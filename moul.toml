@@ -18,15 +18,12 @@ instagram = "awtnb_jp"
 [content]
 title = "Trip on Kobe"
 tags = ["Kobe", "Rainy", "Cloudy", "Sunny", "September", "2022"]
-
-[section.1]
-title = "day 1"
 text = """
-神戸市内散策 → <a href="https://atoa-kobe.jp/">水族館átoa</a>
+Day 1: 神戸市内散策 → <a href="https://atoa-kobe.jp/">水族館átoa</a>
 """
 
-[section.2]
-title = "day 2"
+[section.1]
+title = " "
 text = """
-神戸市内散策 → <a href="https://www.dougukan.jp/">竹中大工道具館</a> → 異人館街
+Day 2: 神戸市内散策 → <a href="https://www.dougukan.jp/">竹中大工道具館</a> → 異人館街
 """
