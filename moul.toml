@@ -1,0 +1,32 @@
+# docs: https://github.com/moulco/moul/tree/master/docs#example-moultoml
+base = "/"
+ga_measurement_id = ""
+
+[style]
+theme = "light"
+cover = "center"
+content = "left"
+
+[profile]
+name = "AWtnb"
+bio = "Editorial staff in publisher"
+
+[social]
+github = "awtnb"
+instagram = "awtnb_jp"
+
+[content]
+title = "Trip on Kobe"
+tags = ["Kobe", "Rainy", "Cloudy", "Sunny", "September", "2022"]
+
+[section.1]
+title = "day 1"
+text = """
+神戸市内散策 → <a href="https://atoa-kobe.jp/">水族館átoa</a>
+"""
+
+[section.2]
+title = "day 2"
+text = """
+神戸市内散策 → <a href="https://www.dougukan.jp/">竹中大工道具館</a> → 異人館街
+"""
